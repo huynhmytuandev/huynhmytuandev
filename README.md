@@ -9,7 +9,7 @@ I'm currently working as a mobile developer.
 
 ## GitHub Stats
 
-<a href="https://github.com/huynhmytuan">
+<a href="[https://github.com/huynhmytuan](https://github.com/huynhmytuandev)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huynhmytuan&show_icons=true&theme=vue-dark&count_private=true" alt="Tuan's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhmytuan&theme=vue-dark&layout=compact" 
     alt="Tuan GitHub Top Languages" />
