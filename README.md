@@ -39,32 +39,6 @@ I'm passionate about clean architecture, reusable systems, and offline-first mob
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 📦 **[quick_action_menu](https://github.com/huynhmytuandev/quick_action_menu)** | Telegram/WeChat-style context menus with fly-in animations, smart positioning & backdrop blur | Flutter, Dart |
-| 💸 **[FeliCash](https://github.com/quimblelabs/felicash-app)** | AI-powered personal finance app with voice input, OCR receipts & multi-currency wallets | Flutter, .NET |
-
-<p>
-  <a href="https://pub.dev/packages/quick_action_menu">
-    <img src="https://img.shields.io/pub/v/quick_action_menu.svg" />
-  </a>
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg" />
-  <img src="https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-lightgrey" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huynhmytuandev&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhmytuandev&layout=compact&hide_border=true&theme=default" height="150" />
-</p>
-
----
-
 ## 📬 Get in Touch
 
 I'm always open to discussing Flutter architecture, open-source collaboration, or interesting project ideas.
